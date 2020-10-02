@@ -1,0 +1,39 @@
+body{
+    background: rgb(218, 179, 179);
+    margin-left: 30px;
+    margin-right: 200px;
+}
+
+header{
+    margin-top: 50px;
+}
+
+h1 {
+    color: rebeccapurple;
+    font-family: fantasy;
+}
+
+h2 {
+   font-family: fantasy;
+}
+
+p {
+    font-size: 18px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px; 
+}
+
+.img_logo {
+    width: 100px;
+}
+
+.icones {
+    width: 30px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
